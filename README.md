@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Yusuf Ahmed Khan
-- 👀 I’m interested in Machine Learning, Deep Learning, Embedded Systems, IOT and Electronics.
+- 👀 I’m interested in Machine Learning, Deep Learning, Signal Processing, Embedded Systems, IOT and Electronics.
 - 🌱 I’m currently a sophomore year electronics engineering undergraduate student at Zakir Husain College of Engineering and Technology, Aligarh Muslim University.
 - 💞️ I’m looking to collaborate on projects related to my interest areas.
 - 📫 You can reach to me via my mail: yusufahmed728@gmail.com or yusufahmedkhan@zhcet.ac.in
