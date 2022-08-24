@@ -6,12 +6,12 @@
 <!-- <h3 align="center">Interest in Artificial Intelligence, Embedded, IOT and Electronics</h3> -->
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
-- 🔭 I’m currently studying in 3rd year of **B.Tech Electronics** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
+- 🔭 I’m currently in my 3rd year of **Bachelors of Technology in Electronics** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
 
-- 🌱 I’m currently learning **Robotics & Artificial Intelligence**
+- 🌱 I’m interested in **Machine Learning, Embedded, IOT and Electronics**
 
-- 💬 Ask me about **Electronics**
+- 💬 Reach out to me for possible collaborations
 
-- 📫 How to reach me **imaduddinsyed09@gmail.com**
+- 📫 How to reach me **yusufahmedkhan@zhcet.ac.in**
 
-- ⚡ Fun fact **I am free to learn new techs**
+- ⚡ Fun fact **I am passionate regarding doing quality research**
