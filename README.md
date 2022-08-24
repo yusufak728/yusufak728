@@ -15,3 +15,8 @@
 - 📫 How to reach me **yusufahmedkhan@zhcet.ac.in**
 
 - ⚡ Fun fact **I have successfully publish my first research article titled <a href="https://ieeexplore.ieee.org/document/9785009" target="blank">"Classification of Human Motion Activities using Mobile Phone Sensors and Deep Learning Model"</a>**, even receive my first citation recently! 😀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yusuf-ahmed-khan-7b6539215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-imaduddin-227169205" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yusufak728/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+</p>
