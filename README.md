@@ -5,7 +5,7 @@
 - 📫 You can reach to me via my mail: yusufahmed728@gmail.com or yusufahmedkhan@zhcet.ac.in
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://github.com/yusufak728)
 <!---
 yusufak728/yusufak728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
