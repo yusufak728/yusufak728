@@ -14,4 +14,4 @@
 
 - 📫 How to reach me **yusufahmedkhan@zhcet.ac.in**
 
-- ⚡ Fun fact **I have successfully publish my first research article titled **<a href="https://ieeexplore.ieee.org/document/9785009" target="blank">"Classification of Human Motion Activities using Mobile Phone Sensors and Deep Learning Model"</a>**, have a look! 
+- ⚡ Fun fact **I have successfully publish my first research article titled <a href="https://ieeexplore.ieee.org/document/9785009" target="blank">"Classification of Human Motion Activities using Mobile Phone Sensors and Deep Learning Model"</a>**, even receive my first citation recently! 😀
