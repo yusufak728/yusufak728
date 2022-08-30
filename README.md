@@ -12,7 +12,7 @@
 
 - 📫 My email id: **yusufahmedkhan@zhcet.ac.in**
 
-- ⚡ Fun fact **I have successfully publish my first research article titled <a href="https://ieeexplore.ieee.org/document/9785009" target="blank">"Classification of Human Motion Activities using Mobile Phone Sensors and Deep Learning Model"</a>**, even received my first citation recently! 😀
+- ⚡ Fun fact **I have successfully published my first research article titled <a href="https://ieeexplore.ieee.org/document/9785009" target="blank">"Classification of Human Motion Activities using Mobile Phone Sensors and Deep Learning Model"</a>**, even received my first citation recently! 😀
 
 - 💬 Reach out to me for possible collaborations, interested in performing quality publications
 
