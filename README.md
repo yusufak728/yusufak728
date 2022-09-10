@@ -6,7 +6,7 @@
 <!-- <h3 align="center">Interest in Artificial Intelligence, Embedded, IOT and Electronics</h3> -->
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
-- 🔭 I’m currently in my 3rd year of **Bachelors of Technology in Electronics** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
+- 🔭 I’m currently in my 3rd year of **Bachelors of Technology in Electronics Engineering** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
 
 - 🌱 I’m interested in **Machine Learning, Deep Learning, Embedded Systems, Internet of Things and Electronics**
 
