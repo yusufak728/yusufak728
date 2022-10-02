@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently in my 3rd year of **Bachelors of Technology in Electronics Engineering** at **<a href="https://amu.ac.in/colleges/zakir-husain-college-of-engineering-and-technology" target="blank">ZHCET, AMU</a>**
 
-- 🌱 I’m interested in **Machine Learning, Deep Learning, Embedded Systems, Internet of Things and Electronics**
+- 🌱 I’m interested in **Machine Learning, Deep Learning, Internet of Things and Electronics (VLSI)**
 
 - 📫 My email id: **yusufahmedkhan@zhcet.ac.in**
 
