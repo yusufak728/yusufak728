@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate undergraduate researcher from India</h3>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy-downsized.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufak728&label=Profile%20views&color=0e75b6&style=flat" alt="yusufak728" /> </p>
