@@ -1,5 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/7850cb8b5dc7e89cc52a6146819da5d6d22148e3aaeee7678f6229a53252e6db/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32342f38652f34372f32343865343761383438646135396437336264316235386233346236356137632e676966)
 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate undergraduate researcher from India</h3>
