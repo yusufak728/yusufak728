@@ -1,4 +1,6 @@
-[![MasterHead]((https://tenor.com/2CCv.gif))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
+<div class="tenor-gif-embed" data-postid="12979101" data-share-method="host" data-aspect-ratio="1.19403" data-width="100%"><a href="https://tenor.com/view/nyan-cat-traves-across-the-galaxy-gif-12979101">Nyan Cat GIF</a>from <a href="https://tenor.com/search/nyan-gifs">Nyan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate undergraduate researcher from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
