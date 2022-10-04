@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/nyan-cat-traves-across-the-galaxy-gif-12979101)]
+[![MasterHead](https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif)]
 
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
