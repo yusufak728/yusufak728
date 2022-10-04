@@ -2,7 +2,9 @@
 <h3 align="center">A passionate undergraduate researcher from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
-[MasterHead](https://tenor.com/2CCv.gif)](https://rishavchanda.io)
+[MasterHead](https://tenor.com/2CCv.gif)](https://tenor.com/2CCv.gif)
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://tenor.com/2CCv.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufak728&label=Profile%20views&color=0e75b6&style=flat" alt="yusufak728" /> </p>
 
 - 🔭 I’m currently working on **Brick Kiln detection and Foreign Object Detection**
