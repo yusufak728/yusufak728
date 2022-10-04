@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate undergraduate researcher from India</h3>
-  <img align="right" alt="GIF" src="  https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" />
+  <img align="right" alt="GIF" src=" [ https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif](https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif)" />
   
 
 
