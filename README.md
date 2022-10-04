@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufak728&label=Profile%20views&color=0e75b6&style=flat" alt="yusufak728" /> </p>
 
-- 🔭 I’m currently working on **Brick Kiln detection and Foreign Object Detection**
+- 🔭 I’m currently working on **Brick Kiln detection and Foreign Object Detection by applying Machine Learning techniques**
 
 - 🌱 I’m currently learning **Verilog, FPGA, Machine Learning concepts and code implementations**
 
-- 👯 I’m looking to collaborate on **Machine Learning based projects**
+- 👯 I’m looking to collaborate on **Machine Learning & VLSI based research projects**
 
 - 🤝 I’m looking for help with **VLSI**
 
