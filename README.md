@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate undergraduate researcher from India</h3>
-  <img align="right" alt="GIF" src="<iframe src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-error-basic-oYQ9HRm5Mo7VXeMNVR">via GIPHY</a></p>" />
+<iframe src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-error-basic-oYQ9HRm5Mo7VXeMNVR">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufak728&label=Profile%20views&color=0e75b6&style=flat" alt="yusufak728" /> </p>
 
