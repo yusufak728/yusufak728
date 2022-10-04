@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/nyan-cat-traves-across-the-galaxy-gif-12979101)](https://rishavchanda.io)
+[![MasterHead](https://tenor.com/view/nyan-cat-traves-across-the-galaxy-gif-12979101)]
 
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
