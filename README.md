@@ -1,9 +1,11 @@
 ![MasterHead](https://camo.githubusercontent.com/7850cb8b5dc7e89cc52a6146819da5d6d22148e3aaeee7678f6229a53252e6db/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32342f38652f34372f32343865343761383438646135396437336264316235386233346236356137632e676966)
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">
+
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate undergraduate researcher from India</h3>
+
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
 
