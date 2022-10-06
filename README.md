@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Brick Kiln detection and Foreign Object Detection by applying Machine Learning techniques**
 
-- 🌱 I’m currently learning **Verilog, FPGA, Machine Learning concepts and code implementations**
+- 🌱 I’m currently learning **Verilog, FPGA hardware implementation, Machine Learning concepts and code implementations**
 
 - 👯 I’m looking to collaborate on **Machine Learning & VLSI based research projects**
 
