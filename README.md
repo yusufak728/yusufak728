@@ -41,7 +41,7 @@
 </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </a> <a href="https://www.pspice.com/" target="_blank" rel="noreferrer"> <img src="https://www.pspice.com/sites/default/files/logo.png" alt="pspice" width="60" height="40"/> 
-</a> <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="R" width="40" height="40"/> 
+</a> <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="R" width="80" height="40"/> 
   
   
   
