@@ -43,7 +43,7 @@
 </a> <a href="https://www.pspice.com/" target="_blank" rel="noreferrer"> <img src="https://www.pspice.com/sites/default/files/logo.png" alt="pspice" width="60" height="40"/> 
 </a> <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515" alt="R" width="80" height="40"/> 
   
-  
+</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ni_labview_logo_icon_169920.png" alt="python" width="40" height="40"/>   
   
 </p>
 
