@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **VLSI**
 
-- 💬 Ask me about **Research, Machine Learning, Eletronics**
+- 💬 Ask me about **Research, Machine Learning, Electronics**
 
 - 📫 How to reach me **yusufahmedkhan@zhcet.ac.in**
 
