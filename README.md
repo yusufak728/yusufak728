@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yusuf-ahmed-khan-7b6539215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf ahmed khan" height="30" width="40" /></a>
-<a href="https://instagram.com/yusufak728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufak728" height="30" width="40" /></a>
+<a href="https://instagram.com/yusufak728" " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufak728" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=npbfYnMAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="yusufak728" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Yusuf-Khan-35" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png" alt="yusufak728" height="30" width="80" /></a>
   
