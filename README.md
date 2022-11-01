@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **yusufahmedkhan@zhcet.ac.in**
 
-- ⚡ Fun fact **I'm an introvert until I get to know you!**
+- ⚡ Fun fact: **I'm an introvert until I get to know you!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
