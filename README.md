@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufak728&label=Profile%20views&color=0e75b6&style=flat" alt="yusufak728" /> </p>
 
-- 🔭 I’m currently working on **Brick Kiln detection and Foreign Object Detection by applying Machine Learning techniques**
+- 🔭 I’m currently working on **Sleep Stage Classification using EEG Signals**
 
 - 🌱 I’m currently learning **Machine Learning concepts and code implementations**
 
-- 👯 I’m looking to collaborate on **Machine Learning based research projects**
+- 👯 I’m looking to collaborate on **Signal Processing - Machine Learning based research projects**
 
-- 🤝 I’m looking for help with **Advanced Machine Learning Algorithms and Concepts**
+- 🤝 I’m looking for help with **Advanced Machine Learning/ Signal Processing Algorithms and Concepts**
 
 - 💬 Ask me about **Research, Machine Learning, Electronics**
 
